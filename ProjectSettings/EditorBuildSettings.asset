@@ -5,8 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/MidTerm-01.unity
     guid: 9d720673a25016c4cbfd50903b2418e0
+  - enabled: 1
+    path: Assets/_Scenes/TitleScreen.unity
+    guid: cc86149266f26554889171d6c118e3a0
+  - enabled: 1
+    path: Assets/_Scenes/Museum.unity
+    guid: 9ba0d1c0a1454cd428ee3d4b189b4b5e
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
