@@ -56,6 +56,14 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.9607843
       objectReference: {fileID: 0}
+    - target: {fileID: 2208391891341578302, guid: 8d2f815bdd9c467418c835d89b92319b, type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208391891341578302, guid: 8d2f815bdd9c467418c835d89b92319b, type: 3}
+      propertyPath: m_ShadowRadius
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8607102576846696690, guid: 8d2f815bdd9c467418c835d89b92319b, type: 3}
       propertyPath: m_Name
       value: Muse Light 30
